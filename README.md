@@ -9,7 +9,7 @@ CS_Study Every Thu 9 p.m
 - 양권모 https://github.com/Praesentia-YKM 
 - 성윤환 https://github.com/yhyoon1004
 - 이은성 https://github.com/backgom1
-
+- 최규석 https://github.com/Grusie
 ## 진행방식
 
 1. 전주에 선정된 주제를 각자 마크다운 문서로 정리해서 모두 발표
